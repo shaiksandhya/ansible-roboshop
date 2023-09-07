@@ -13,8 +13,8 @@ catalogue.sandydevops.online
 [cart]
 cart.sandydevops.online
 
-[reddis]
-reddis.sandydevops.online
+[redis]
+redis.sandydevops.online
 
 [rabbitmq]
 rabbitmq.sandydevops.online
